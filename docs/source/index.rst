@@ -6,6 +6,7 @@ lammps-interface
    :caption: Contents:
    :hidden:
 
+   getting_started
    development
    API documentation <apidoc/lammps_interface>
 
