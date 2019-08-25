@@ -7,6 +7,7 @@ lammps-interface
    :hidden:
 
    getting_started
+   inner_working
    development
    API documentation <apidoc/lammps_interface>
 
